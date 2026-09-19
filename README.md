@@ -144,30 +144,3 @@ sdf05-monolith-refactoring/
 └── README.md
 ```
 
-## Menjalankan Program
-
-```bash
-python3 main.py
-```
-
-Contoh:
-
-```text
-Name: Dinda
-Email: DINDA@example.com
-User created: {'id': 4, 'name': 'Dinda', 'email': 'dinda@example.com'}
-```
-
-## Menjalankan Test
-
-Install dependency test:
-
-```bash
-python3 -m pip install -r requirements-dev.txt
-```
-
-Jalankan test:
-
-```bash
-python3 -m pytest -q
-```
