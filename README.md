@@ -5,8 +5,6 @@
 **Nama:** MUH. AWALUDDIN  
 **NIM:** 25120300003
 
-Project awal hanya terdiri dari satu file `app.py`. Di dalam file tersebut, proses validasi user, pembuatan user, baca/tulis JSON, dan CLI masih berada di tempat yang sama. Pada refactoring ini, bagian-bagian tersebut dipisahkan agar tanggung jawab setiap module lebih jelas dan lebih mudah diuji.
-
 ## 1. Dependency Map
 
 ### Sebelum refactoring
